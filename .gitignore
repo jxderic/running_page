@@ -18,3 +18,5 @@ _site/
 .idea
 
 config.yaml
+newrelic_agent.log
+.history
